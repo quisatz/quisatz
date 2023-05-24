@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **TKinter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/quisatz/quisatz](https://github.com/quisatz/)
+- 👨‍💻 All of my projects are available at [https://github.com/quisatz](https://github.com/quisatz/)
 
 - 📫 How to reach me **borysgolebiowskipl@gmail.com**
 
