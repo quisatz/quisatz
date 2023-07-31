@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [PDFfinder](https://github.com/quisatz/PDFfinder)
 
-- 🌱 I’m currently learning **TKinter**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quisatz](https://github.com/quisatz/)
 
