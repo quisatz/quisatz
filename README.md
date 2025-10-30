@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [PDFfinder](https://github.com/quisatz/PDFfinder)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **PowerShell**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quisatz](https://github.com/quisatz/)
 
-- 📫 How to reach me **borysgolebiowskipl@gmail.com**
+- 📫 How to reach me **borysgolebiowski.it@gmail.com**
 
 - ⚡ Fun fact **"I lived many years and had many problems, most of which never happened."**
 
